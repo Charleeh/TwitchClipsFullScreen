@@ -3,8 +3,8 @@
 // @namespace    https://github.com/Charleeh/TwitchClipsFullScreen
 // @version      1.0
 // @description  @description Adds a fullscreen button & double-click functionality for Twitch clip creation
-// @updateURL    https://raw.githubusercontent.com/Charleeh/TwitchClipsFullScreen/refs/heads/main/fullscreen-button/clips-fullscreen-button
-// @downloadURL  https://raw.githubusercontent.com/Charleeh/TwitchClipsFullScreen/refs/heads/main/fullscreen-button/clips-fullscreen-button
+// @updateURL    https://raw.githubusercontent.com/Charleeh/TwitchClipsFullScreen/refs/heads/main/fullscreen-button/clips-fullscreen-button.js
+// @downloadURL  https://raw.githubusercontent.com/Charleeh/TwitchClipsFullScreen/refs/heads/main/fullscreen-button/clips-fullscreen-button.js
 // @author       charleeh
 // @match        *://clips.twitch.tv/*
 // @grant        none
