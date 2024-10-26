@@ -11,3 +11,5 @@ Adds a full-screen functionality for Twitch clip creation
 
 - `Add FullScreen Button` - [userscript](https://raw.githubusercontent.com/Charleeh/TwitchClipsFullScreen/refs/heads/main/fullscreen-button/clips-fullscreen-button.user.js)
 - `Native Player Controls` - [userscript](https://raw.githubusercontent.com/Charleeh/TwitchClipsFullScreen/refs/heads/main/native-controls/clips-native-controls.user.js)
+
+Enjoy
