@@ -4,4 +4,5 @@ Adds a full-screen functionality for Twitch clip creation
 
 ## Recommendations
 
-- `Native player controls` - [userscript](https://userscripts.adtidy.org/release/adguard-extra/1.0/adguard-extra.user.js)
+- `Add FullScreen Button` - [userscript](https://raw.githubusercontent.com/Charleeh/TwitchClipsFullScreen/refs/heads/main/fullscreen-button/clips-fullscreen-button)
+- `Native Player Pontrols` - [userscript](https://raw.githubusercontent.com/Charleeh/TwitchClipsFullScreen/refs/heads/main/native-controls/clips-native-controls.js)
